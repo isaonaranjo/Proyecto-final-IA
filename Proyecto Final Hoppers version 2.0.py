@@ -5,6 +5,8 @@ import time
 from os import system
 
 """
+Maria Isabel Ortiz Naranjo
+Carne: 18176
 An implementation of Minimax AI Algorithm in Hoppers,
 using Python
 """
